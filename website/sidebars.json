@@ -1,0 +1,67 @@
+{
+  "docs": {
+    "Introduction": [
+      "Introduction/services-overview",
+      {
+        "type": "subcategory",
+        "ids": [
+          "Introduction/solutions-overview"
+        ]
+      }
+    ],
+    
+    "General Concepts": [
+      "General-Concepts/rng-explain",
+      {
+        "type":"subcategory",
+        "ids":[
+          "General-Concepts/api-explain"
+        ]
+      }
+    ],
+    "API User Dashboard": [
+      "API-User-Dashboard/accounts",
+      {
+        "type":"subcategory",
+        "ids": [
+          "API-User-Dashboard/dashboard"
+        ]
+      },
+      {
+        "type":"subcategory",
+        "ids":[
+          "API-User-Dashboard/payments"
+        ]
+      },
+      {
+        "type":"subcategory",
+        "ids":[
+          "API-User-Dashboard/subscription"
+        ]
+      },
+      {
+        "type":"subcategory",
+        "ids":[
+          "API-User-Dashboard/my-profile"
+        ]
+      },
+      {
+        "type":"subcategory",
+        "ids":[
+          "API-User-Dashboard/notifications"
+        ]
+      }
+    ],
+    "Integration": [
+      "Integration/api-keys",
+      {
+        "type":"subcategory",
+        "ids":[
+          "Integration/api-wallet"
+        ]
+      }
+    ],
+    "Verification Tool": ["Verification-tool/verification-tool"],
+    "Help": ["Help/help"]
+  }
+}
