@@ -24,11 +24,11 @@ To view dashboards, from the left navigation bar, select Dashboards. Your defaul
 
 ![Dashboard](./pictures/Dashboard.png)
 
--	Subscription: Your purchased package information
--	Balance: Available requests and requests purchased
--	Summary: The overall real-time & historical requests used daily / weekly / monthly / annually
--	Monthly (MoM) service usage: The monthly line chart comparison. This in purpose to help user in selecting the suitable GINAR service package for their business.
--	Annual (YoY) service overview: Recent 3 years of request purchased / used / incurred
+-	**Subscription**: Your purchased package information
+-	**Balance**: Available requests and requests purchased
+-	**Summary**: The overall real-time & historical requests used daily / weekly / monthly / annually
+-	**Monthly (MoM) service usage**: The monthly line chart comparison. This in purpose to help user in selecting the suitable GINAR service package for their business.
+-	**Annual (YoY) service overview**: Recent 3 years of request purchased / used / incurred
 
 > **Notice**: The notification will be triggered automatically from GINAR system when your balance reaching to 10% availability.
 
