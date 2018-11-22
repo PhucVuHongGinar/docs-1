@@ -1,4 +1,4 @@
-Welcome to the GINAR Documentation Page!
+## Welcome to the GINAR Documentation Page!
 The documentation is divided in the following sections:
 -	Introduction – An overall GINAR service overview
 -	General Concepts – The main concepts used by GINAR
