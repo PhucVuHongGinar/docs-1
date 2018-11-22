@@ -16,8 +16,17 @@ To use **GINAR Random Verification Tool**, go to https://www.GINAR.io/ and find 
 
 ## Verification process
 
--	Copy your ticket ID to verification windows
--	Click “Search” to verify your ticket ID. The verified result will be showed up
+-	**Step 1**: Copy your ticket ID to verification windows
+-	**Step 2**: Click “Search” to verify your ticket ID. The verified result will be showed up
 
-If the random number is incorrect, the tool will notify - “invalid result”
+> If the random number is incorrect, the tool will notify - **invalid result**
 
+![Verification](./pictures/Verification1.png)
+
+> If the random number is correct, the tool will notify – **valid result**. To understand the verification in detail, you click to **View Results**.
+
+![Verification](./pictures/Verification2.png)
+
+The detail results from valid random number will be listed with **Block Information** and **Json Data**
+
+![Verification](./pictures/Verification3.png)
