@@ -1,10 +1,9 @@
 ---
 id: services-overview
-sidebar_label: Services Overview
-title: Services Overview
+sidebar_label: Benefits
+title: Benefits for Individuals & Businesses
 ---
 
-## Benefits for Individuals & Businesses
 -	Delivers high quality dRNG services using full random based on blockchain technology
 -	Lower total cost from eliminating expensive auditing procedures and anti-hacking systems
 -	Supplies fast throughput for commercial applications with millions random number per second
