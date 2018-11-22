@@ -1,3 +1,8 @@
+---
+id: introduction
+title: Introduction
+---
+
 # Introduction
 GINAR is a decentralized random number generator service that is built on top of blockchain technology to provide a source for true random numbers for multiple applications. By tapping into blockchain, GINAR is poised to be the pioneer as a random number generator decentralized service which offers true, fair and transparent random numbers. GINAR aims to replace the dependency of pseudo random numbers with true random numbers. The concept is to utilize the cryptographic nature of blockchain to derive randomness and generate true random numbers, which are transparent and traceable through GINAR.
 
