@@ -10,9 +10,11 @@ title: Accounts
 
 -	**Step 2: Complete registration info**: The user registration request form appears, you now need to start filling the form. 
 
-**Name**: This is your profile name which will show in your GINAR Dashboard, and on how GINAR call you.
-**Email**: Enable this channel to receive verification codes as email messages to your email inbox. This is your primary email address. Each email is validated for single account only.
-**Password**: The password length should be greater than 8 characters which includes at least one lowercase letter, one uppercase letter, one special character, and one digit.
+> **Name**: This is your profile name which will show in your GINAR Dashboard, and on how GINAR call you.
+
+> **Email**: Enable this channel to receive verification codes as email messages to your email inbox. This is your primary email address. Each email is validated for single account only.
+
+> **Password**: The password length should be greater than 8 characters which includes at least one lowercase letter, one uppercase letter, one special character, and one digit.
 
 
 
