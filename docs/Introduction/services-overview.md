@@ -1,6 +1,6 @@
 ---
 id: services-overview
-sidebar_label: Benefits
+sidebar_label: Benefits for Individuals & Businesses
 title: Benefits for Individuals & Businesses
 ---
 
