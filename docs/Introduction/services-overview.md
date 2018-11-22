@@ -1,7 +1,13 @@
 ---
 id: services-overview
-sidebar_label: Services Overview
-title: Services Overview
+sidebar_label: Benefits for Individuals & Businesses
+title: Benefits for Individuals & Businesses
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+-	Delivers high quality dRNG services using full random based on blockchain technology
+-	Lower total cost from eliminating expensive auditing procedures and anti-hacking systems
+-	Supplies fast throughput for commercial applications with millions random number per second
+-	Seamless integration without modification needed for architect & devices
+-	Unpredictability - No one can determine the outcome until the generation process is completed and then revealed
+-	Verifiability – Allows everyone to verify the random generation process
+-	High Security based on crypto-systems

@@ -4,4 +4,13 @@ sidebar_label: My Profile
 title: My Profile
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
+Navigate to **My Profile** in your user dashboard, you can change your username/password, add a personal email address, phone and update any contact details.
+
+- **Profile**: Using this option, you can view and update the profile details. It is allowed to edit the user name and profile picture.
+- **Account options**: You are allowed to edit the preferred language, time-zone, address and nationality
+- **Email address**: You can configure primary and secondary email. And if you want to update an email address, you must have at least 2 email addresses on your profile.
+- **Phone Number**: For security reasons, the mobile phone number is mandatory information must be updated in the first time using GINAR service.
+
+GINAR system also allows you to change your password at any time and update security question.
+
+![My Profile](./pictures/Profile.png)
