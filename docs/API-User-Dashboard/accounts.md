@@ -16,7 +16,11 @@ title: Accounts
 
 > **Password**: The password length should be greater than 8 characters which includes at least one lowercase letter, one uppercase letter, one special character, and one digit.
 
+If you need a small bandwidth and prefer Individual solutions, then Click to “Sign up” to finish registration for the next step of email verification. 
 
+If you are the SMB & Enterprise and need bigger bandwidth for your company business, then we suggest selecting the “Business” option with few additional business information before “Sign up” to enjoy the best B2B services from GINAR.
+
+![Signup](./Pictures/Signup.png)
 
 ## Login
 
