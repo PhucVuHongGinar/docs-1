@@ -16,6 +16,6 @@ After the session key is established, the protocol proceeds to the Process phase
 
 - **Step 2 - Select Eligible Nodes**: Each node in the Core Layer checks whether it is eligible to take part in the generation process for a ticket. If no node is eligible, the ticket will be updated and go back to step 1.
 
-- **Step 3 - Make Contribution**: Each eligible node chooses a number to contribute, computes the hash of this number and publishes the hash onto the blockchain. The node generates a string called Proof-of-Designation (PoD) to be a proof of the value it contributes. Next, the eligible node then sends the number along with the corresponding PoD to the GINAR Service.
+- **Step 3 - Make Contribution**: Each eligible node chooses a number to contribute, computes the hash of this number and publishes the hash onto the blockchain. The node generates a string called **Proof-of-Designation (PoD)** to be a proof of the value it contributes. Next, the eligible node then sends the number along with the corresponding PoD to the GINAR Service.
 
 - **Step 4 - Calculate the Final Outcome**: After receiving messages from eligible nodes, the GINAR Service first verifies the correctness of each PoD. If all PoDs are valid, the final result is then computed for the contributed numbers. This result is the final outcome and will be sent back to client.
