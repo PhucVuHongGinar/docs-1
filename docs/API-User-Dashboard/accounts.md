@@ -22,25 +22,25 @@ If you need a small bandwidth and prefer Individual solutions, then Click to “
 
 If you are the SMB & Enterprise and need bigger bandwidth for your company business, then we suggest selecting the “Business” option with few additional business information before “Sign up” to enjoy the best B2B services from GINAR.
 
-![Signup](./Pictures/Signup.png)
+![Signup](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/2.Signup.png?raw=true)
 
 -	**Step 3: Verify your account** After clicking “Sign up”, the verification email will be sent to your registered email inbox (please also check your spam mail box). Open the email and click the link to confirm the creation of the account.
 
-![Verify](./Pictures/Verify.png)
+![Verify](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/3.Verify.png?raw=true)
 
 The GINAR account created confirmation message appears. This message confirmed you have finished GINAR account registration. To start using the GINAR services, you have to add the payment method in the first-time login in GINAR dashboard.
 
-![Congratulations](./Pictures/Congrats.png)
+![Congratulations](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/4.Congrats.png?raw=true)
 
 ## Login to GINAR Dashboard
 
 -	**Step 1: Navigate to GINAR website** To access GINAR user dashboard, go to https://www.ginar.io/. Click Login on right-top homepage and then proceed to the next step.
 
-![GINAR Website](./Pictures/Website.png)
+![GINAR Website](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/1.GINAR%20Website.png?raw=true)
 
 -	**Step 2: Login to GINAR Dashboard** On the login page, enter the email address and password that you registered with GINAR. Click Login to access GINAR dashboard.
 
-![Login](./Pictures/Login.png)
+![Login](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/5.Login.png?raw=true)
 
 > **Notice**: If the GINAR system identifies that you have an abnormal login, it will trigger an additional step by OTP verification code to your email or phone number, which you then have to enter the correct OTP code before accessing the GINAR dashboard. So please remember to update your profile with your correct phone number when using GINAR for the first time.
 
