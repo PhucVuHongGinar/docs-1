@@ -6,13 +6,7 @@
     ],
 
     "Introduction": [
-      "Introduction/services-overview",
-      {
-        "type": "subcategory",
-        "ids": [
-          "Introduction/solutions-overview"
-        ]
-      }
+      "Introduction/introduction"
     ],
     
     "General Concepts": [
