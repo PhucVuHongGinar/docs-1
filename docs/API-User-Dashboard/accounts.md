@@ -8,7 +8,7 @@ title: Accounts
 
 -	**Step 1: Navigate to GINAR website** To create your GINAR account you only need a web browser and an internet connection. Go to https://www.ginar.io/. You should now get to a page that looks something like the one below. Click the **Sign up** on the right-top homepage then proceed to the next step.
 
-![GINAR Website](./Pictures/Website.png)
+![GINAR Website](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/1.GINAR%20Website.png?raw=true)
 
 -	**Step 2: Complete registration info** The user registration request form appears, you now need to start filling the form. 
 
