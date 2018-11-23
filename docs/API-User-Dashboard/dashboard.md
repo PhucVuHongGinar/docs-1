@@ -11,9 +11,9 @@ GINAR Dashboards are designed to provide graphical displays of real time status 
 
 ## First time access to GINAR Dashboard
 
-When you access the GINAR dashboard for the first time, you will have to provide payment information. Please note you won’t be charged until you decide to purchase service from GINAR.
+When you access the GINAR dashboard for the first time, you will have to provide payment information. Once your Card is authorized, you will receive the Freelancer service from GINAR with 500 requests/month in free of charge. 
 
-Fill all the required information then click **Submit** to finish and start enjoying GINAR.
+Fill all the required information then click **Submit** to finish and start enjoying GINAR services.
 
 ![Add Payment info](./pictures/Payment1.png)
 
