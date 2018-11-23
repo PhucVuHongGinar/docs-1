@@ -1,5 +1,6 @@
 ---
 id: introduction
+sidebar_label: Introduction
 title: Introduction
 ---
 
