@@ -1,6 +1,6 @@
 ---
 id: verification-tool
-title: How to use?
+title: How to use GINAR Random Verification Tool?
 ---
 
 Verifiability is required to ensure that the generation process has not been circumvented. Traditional RNGs can only prove that it uses a random method but are not able to provide any technique to audit the results after it is generated - meaning that the final result may have been manipulated or not **true**. Thus, they may be prone to insider fraud. This place heavy trust in the service provider. Decentralized solutions leverage the Blockchain technology to bring the transparency in the generation process to everyone. Every step in the generation process is recorded and then related data will be published on the blockchains. With this information, everyone can easily check if there is any manipulation happening during the generation process
