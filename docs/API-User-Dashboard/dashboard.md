@@ -11,7 +11,7 @@ GINAR Dashboards are designed to provide graphical displays of real time status 
 
 ## First time access to GINAR Dashboard
 
-When you access the GINAR dashboard for the first time, you will have to provide payment information. Once your Card is authorized, you will receive the Freelancer service from GINAR with 500 requests/month in free of charge. 
+When you access the GINAR dashboard for the first time, you have to provide payment information. Once your payment card is authorized, you will receive the Freelancer service from GINAR with 500 requests/month in free of charge. 
 
 Fill all the required information then click **Submit** to finish and start enjoying GINAR services.
 
@@ -24,11 +24,11 @@ To view dashboards, from the left navigation bar, select Dashboards. Your defaul
 
 ![Dashboard](./pictures/Dashboard.png)
 
--	**Subscription**: Your purchased package information
--	**Balance**: Available requests and requests purchased
--	**Summary**: The overall real-time & historical requests used daily / weekly / monthly / annually
--	**Monthly (MoM) service usage**: The monthly line chart comparison. This in purpose to help user in selecting the suitable GINAR service package for their business.
--	**Annual (YoY) service overview**: Recent 3 years of request purchased / used / incurred
+-	**Subscription**: Your purchased and running GINAR service
+-	**Balance**: Your used and purchased requests
+-	**Summary**: The overall GINAR service using daily / weekly / monthly / annually
+-	**Month-over-month service usage**: Recent 3 months service review - request purchased / used / incurred
+-	**Year-on-year service usage**: Recent 3 years service review - request purchased / used / incurred
 
-> **Notice**: The notification will be triggered automatically from GINAR system when your balance reaching to 10% availability.
+> **Notice**: The notification will be triggered automatically from GINAR system to your email when your service balance reaching to 10% availability.
 
