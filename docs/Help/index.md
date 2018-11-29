@@ -4,6 +4,16 @@ title: Help
 sidebar_label: Need Help?
 ---
 
+
+## Contact Us
+
+We have listed here some FAQ, if you have any question feel free to send us an email
+
+- For any technical issue/support, please contact our support team at **support@GINAR.io**
+
+- For inquiry and any related to sales, please contact our sales team at **sales@GINAR.io**
+
+
 ## Frequently Asked Questions
 
 1. What is Random Number Generation?
@@ -48,8 +58,4 @@ Unpredictability, Verifiability, Tamper Resistance, Open participation, High Per
 
 
 
-## Contact Us
 
-For any technical issue/support, please contact our support team at **support@GINAR.io**
-
-For inquiry and any related to sales, please contact our sales team at **sales@GINAR.io**
