@@ -32,4 +32,4 @@ GINAR creates an innovative high-speed pseudo Random Number Generator that is in
 
 GINAR’s solution can be used for any B2B or B2C segment that requires a true, fair, secure, and verifiable random number for its business activities, thus increasing the trust and commitment from their clients. 
 
-GINAR is offering solution pricing packages for all of your business needs, big or small. 
+**GINAR is offering solution pricing packages for all of your business needs, big or small.** 
