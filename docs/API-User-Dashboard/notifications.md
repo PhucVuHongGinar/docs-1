@@ -7,7 +7,7 @@ title: Notifications
 Notifications are updates about activity on GINAR dashboard from the time you registered to our service. Those notifications will appear on the right-top-corner of your dashboard. When you have a new notification, a red bubble will appear with the number of new notifications you've received. Click these icons at any time to view your notifications.
 
 
-Below is the list of notification from GINAR with description for each. 
+Below for the description for each notification from GINAR. 
 
 - **Reset Your Password**:	Reset your Password - when you click to "Forgot Password?" 
 - **Reset Your Password**:	Reset your Password - when you input the 4th time wrong password
