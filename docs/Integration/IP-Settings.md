@@ -1,3 +1,9 @@
+---
+id: ip-settings
+sidebar_label: IP Settings
+title: IP Settings
+---
+
 # IP Settings
 You can allow some devices using your account to get random number.
 - Add IP to **white list** separated by semicolon.
