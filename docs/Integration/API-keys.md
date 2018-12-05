@@ -11,7 +11,7 @@ title: API Keys
 GINAR is a Decentralized Random Number Generator (DRNG)
 ## GINAR's solution for generating random numbers via Decentralized APIs
 
-Visit our [website](https://ginar.io) and checkout the [whitepaper](https://www.ginar.io/whitepaper.pdf) for more details.
+Visit our [website](https://ginar.io) and checkout the [whitepaper](https://www.ginar.io/whitepaper-v2.0.pdf) for more details.
 
 ## GINAR REST APIs
 ## Authorization
