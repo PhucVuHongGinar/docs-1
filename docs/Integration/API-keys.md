@@ -5,11 +5,6 @@ title: API Keys
 ---
 
 
-# Welcome to the GINAR Wiki
-This page is the wiki portal for all kind of information on the Decentralized Random Number Generation platform built by GINAR team.
-
-**Contents**
-* [GINAR Random Service Rest APIs Guide](https://github.com/ginarteam/wiki/wiki/restapi)
 
 # GINAR Random Service REST APIs Guide
 
@@ -19,7 +14,10 @@ GINAR is a Decentralized Random Number Generator (DRNG)
 Visit our [website](https://ginar.io) and checkout the [whitepaper](https://www.ginar.io/whitepaper.pdf) for more details.
 
 ## GINAR REST APIs
-
+## Authorization
+* **Before using the API**, you need to log-in your account and get your public and secret keys in **API Keys tab**.
+* To get authorized, use public and secret keys
+![API_key](API_key.png?raw=true)
 ### Initialize
 
 * **API URL:** https&#58;//api.ginar.io/rng/initialize/**{_contribute_number_}**
@@ -53,7 +51,7 @@ Visit our [website](https://ginar.io) and checkout the [whitepaper](https://www.
 * **Return:** a JSON string
 	- **ticketCode:** the hex-string session key that can be input for the next request and will be expired until is is used.
 	- **beacon:** the random number as a hex string
-	- **m:** the unique message that has been initialized since the user requested the API Initialize, this message will be change after the user re-initializes their session.
+	- **m:** the unique number GINAR get from SCRAPE-contract on public blockchain which improve security of the random number.
 	- **nums:** a list of extracted numbers from **beacon** that are uniformly distributed in the desired range **[_dest_lower_, _dest_upper_]**. This field is only added to the response when both **_dest_lower_** and **_dest_upper_** are specified in the request.
 * **Sample request:**
 	```
