@@ -5,7 +5,7 @@ title: Request Number
 ---
 # Request Number
 After passed athetication, you can request secure random number from GINAR system by the GINAR API. First, you need to initialize your request.
-##API initialize
+## API initialize
 * API URL: 
 > https://api.ginar.io/rng/initialize/ **{contribute_number}**
 * Method: ``GET``
@@ -41,7 +41,9 @@ After passed athetication, you can request secure random number from GINAR syste
 		* _type_: **string** (256-bit decimal)
 	* **num**: a list of extracted numbers from **_beacon_** that are uniformly distributed in the desired range **_[dest_lower, dest_upper]_**. This field is only added to the response when both **_dest_lower_** and **_dest_upper_** are specified in the request.
 		* _type_: **array of string**
-* Sample request: ``` https://api.ginar.io/rng/generate/4f0be1540f958247f71ad78b47674b80507017d6ba137fdd68e813bc080f3a68/1000/2000
+* Sample request: 
+``` 
+https://api.ginar.io/rng/generate/4f0be1540f958247f71ad78b47674b80507017d6ba137fdd68e813bc080f3a68/1000/2000
 ```
 * Sample response:
 ```
