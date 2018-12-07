@@ -16,10 +16,10 @@ _public key_ and _secret key_ are also **account** and **password** which you ne
 ## API keys
 ```Dashboard/Development/API Keys```
 
-![API_key](API_key.png?raw=true)
+![API_key](https://raw.githubusercontent.com/ginarteam/docs/master/docs/Integration/API_key.png)
 You can manage your API keys in Dashboard: 
  * Check public key.
  * Generate secret key: Click **Generate Secret Key** button, a box will pop-up, set your key name. For security, we recommend you to change your secret key frequently.
-![gen_box](generate_box.png?raw=true)
+![gen_box](https://raw.githubusercontent.com/ginarteam/docs/master/docs/Integration/generate_box.png)
  * Edit secret key: you can edit your key name, key  value of active-deactive your key.
-![edit_key](edit_key.png?raw=true)
+![edit_key](https://raw.githubusercontent.com/ginarteam/docs/master/docs/Integration/edit_key.png)
