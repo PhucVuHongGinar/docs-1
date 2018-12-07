@@ -52,11 +52,29 @@
       }
     ],
     "Integration": [
-      "Integration/api-keys",
+      "Integration/introduction",
       {
         "type":"subcategory",
         "ids":[
-          "Integration/api-wallet"
+          "Integration/authentication"
+        ]
+      },
+      {
+        "type":"subcategory",
+        "ids":[
+          "Integration/ip-settings"
+        ]
+      },
+      {
+        "type":"subcategory",
+        "ids":[
+          "Integration/request_number"
+        ]
+      },
+      {
+        "type":"subcategory",
+        "ids":[
+          "Integration/request_error"
         ]
       }
     ],
