@@ -3,7 +3,7 @@ id: ip-settings
 sidebar_label: IP Settings
 title: IP Settings
 ---
-#IP Settings
+# IP Settings
 
 For security, we build 2 secure layer: **HTTP authentication** and **IP whitelist**.
 Your device's IP must be in ** IP whitelist** to using GINAR services. You can manage your **whitelist** in Dashboard.
@@ -14,12 +14,12 @@ Your device's IP must be in ** IP whitelist** to using GINAR services. You can m
 * Click **Save**
 ![IP_settings](IP_settings.png?raw=true)
 
-##Delete IP address
+## Delete IP address
 * Click the IP which you want to delete, you will see a pop-up notification.
 ![delIP](delIP.png?raw=true)
 * Click **Save**
 
-##Error
+## Error
 * If your IP is not in white list, you can not access to the API
 ```
 {
