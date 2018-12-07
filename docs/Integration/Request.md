@@ -4,7 +4,7 @@ sidebar_label: Request Number
 title: Request Number
 ---
 # Request Number
-After passed athetication, you can request secure random number from GINAR system by the GINAR API. First, you need to initialize your request.
+After passed authentication, you can request secure random number from GINAR system by the GINAR API. First, you need to initialize your request.
 ## API initialize
 * API URL: 
 > https://api.ginar.io/rng/initialize/ **{contribute_number}**
