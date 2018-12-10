@@ -3,7 +3,7 @@ id: ip-settings
 sidebar_label: IP Settings
 title: IP Settings
 ---
-# IP Settings
+
 ```
 Dashboard/Development/IP Settings
 ```

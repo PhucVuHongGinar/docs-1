@@ -3,7 +3,7 @@ id: request_number
 sidebar_label: Request Number
 title: Request Number
 ---
-# Request Number
+
 After passed authentication, you can request secure random number from GINAR system by the GINAR API. First, you need to initialize your request.
 ## API initialize
 * API URL: 
