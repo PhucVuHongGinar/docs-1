@@ -11,24 +11,26 @@ GINAR Dashboards are designed to provide graphical displays of real time status 
 
 ## First time access to GINAR Dashboard
 
-When you access the GINAR dashboard for the first time, you have to provide payment information. Once your payment card is authorized, you will receive the Freelancer service from GINAR with 500 requests/month in free of charge. 
+When you access the GINAR dashboard for the first time, you have to provide payment information. Once your payment card is authorized, you will receive the Freelancer service from GINAR with 500 requests/month free of charge. 
 
-Fill all the required information then click **Submit** to finish and start enjoying GINAR services.
+Fill all the required information then click **Submit** to finish and start the GINAR services.
 
-![Add Payment info](./pictures/Payment1.png)
+![Add Payment info](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/6.%20Payment%20at%201st%20Login.png?raw=true)
 
 
 ## Viewing Dashboard
 
-To view dashboards, from the left navigation bar, select Dashboards. Your default dashboard is displayed, you can select the type of dashboard you want to view.
+To view dashboards, from the left navigation bar, select **Dashboard**. Your default dashboard is displayed, you can select the type of dashboard you want to view.
 
-![Dashboard](./pictures/Dashboard.png)
+![Dashboard](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/7.%20Dashboard.png?raw=true)
 
--	**Subscription**: Your purchased and running GINAR service
--	**Balance**: Your used and purchased requests
+-	**Active Package**: Your purchased and running GINAR service
+- **Active Date**: Your purchased date
+- **Expired Date**: The date your monthly subscription end for new recurre
+-	**Available Requests**: Your GINAR available service
 -	**Summary**: The overall GINAR service using daily / weekly / monthly / annually
--	**Month-over-month service usage**: Recent 3 months service review - request purchased / used / incurred
--	**Year-on-year service usage**: Recent 3 years service review - request purchased / used / incurred
+-	**Last 3 Months Service**: Recent 3 months service review - request purchased / used / incurred
+-	**Last 3 Years Service**: Recent 3 years service review - request purchased / used / incurred
 
-> **Notice**: The notification will be triggered automatically from GINAR system to your email when your service balance reaching to 10% availability.
+> **Notice**: The notification will be triggered automatically from GINAR system to your email when your service balance reaching to 10% availability. To avoid any recurred request happen, please consider to upgrade your subscription.
 
