@@ -8,17 +8,17 @@ title: Subscription
 
 In order to create and activate a subscription, you must first provide the payment information. GINAR designs variety of subscriptions packages based on individual & business requirement, each has its own differences. For more info, please explore from GINAR website - https://www.GINAR.io/
 
-Individual Subscription
+**Individual Subscription**
 
 ![Individual Subscription](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/9.3.%20Subscription.png?raw=true)
 
-Business Subscription
+**Business Subscription**
 
 ![Business Subscription](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/9.4.%20Biz%20Subscription.png?raw=true)
 
 To purchase a package service from GINAR, you go to **Subscription**, click to **Checkout** then next **Paynow** to confirm the purchase. The **Subscribe package successfully** will be showed up to guarantee your purchase.
 
-Payment Confirmation
+**Payment Confirmation**
 
 ![Business Subscription](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/9.5.%20Payment%20confirm.png?raw=true)
 
