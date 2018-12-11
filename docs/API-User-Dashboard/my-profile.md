@@ -13,4 +13,4 @@ Navigate to **My Profile** in your user dashboard, you can change your username/
 
 GINAR system also allows you to change your password at any time and update security question.
 
-![My Profile](./pictures/Profile.png)
+![My Profile](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/8.%20My%20Profile.png?raw=true)
