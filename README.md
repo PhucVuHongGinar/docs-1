@@ -1,2 +1,2 @@
 # docs
-GINAR documentation
+GINAR documentation.
