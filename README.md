@@ -14,9 +14,15 @@ This is implementation of NIST's statistical test suite for Random Number Genera
 With the GINAR service, users can quickly build a verifiably fair application for different scenarios. The purpose of this documentation is step by step guide you how to use and operate your application business with GINAR service. The documentation is divided in the following sections:
 
 **Introduction** – An overall GINAR service overview
+
 **General Concepts** – The main concepts used by GINAR
+
 **API User Dashboard** – The step by step instruction how to use GINAR dashboard
+
 **Integration** – The step by step instruction how to integrate GINAR with your services
+
 **Verification Tool** – How to verify your random number through GINAR Random Verification Tool
+
 **My Profile** – Allow you to update/edit your personal information with GINAR
+
 **Help** – Get up to date FAQs and how to access GINAR sales & support windows
