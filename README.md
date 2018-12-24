@@ -1,6 +1,5 @@
 [![](https://www.ginar.io/wp-content/themes/ginar/assets/img/logo1.svg)](https://ginar.io)
-# Statistical test
-[![](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/ginarteam) [![](https://img.shields.io/badge/Telegram-Group-blue.svg)](https://t.me/GINAR_io) 
+# Documentation
 
 
 GINAR is a blockchain technology company specializing in providing a decentralized random number generator. Random Number Generation, or RNG, is a key component to applications that benefit from true randomness. GINAR is set to release a best-in-class decentralized.
@@ -19,4 +18,4 @@ This is implementation of NIST's statistical test suite for Random Number Genera
 
 ### Installation
 GINAR Random test requires  **Python 2.7** to run.
-First, you need to clone our repository and install some packages:
+
