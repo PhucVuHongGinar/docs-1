@@ -40,7 +40,7 @@ The GINAR account created confirmation message appears. This message confirmed y
 
 -	**Step 2: Login to GINAR Dashboard** On the login page, enter the email address and password that you registered with GINAR. Click Login to access GINAR dashboard.
 
-![Login](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/5.Login.png?raw=true)
+![Login](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/5.%20Login.png?raw=true)
 
 > **Notice**: If the GINAR system identifies that you have an abnormal login, it will trigger an additional step by OTP verification code to your email or phone number, which you then have to enter the correct OTP code before accessing the GINAR dashboard. So please remember to update your profile with your correct phone number when using GINAR for the first time.
 
