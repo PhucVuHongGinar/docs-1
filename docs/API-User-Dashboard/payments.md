@@ -32,3 +32,8 @@ GINAR sends a request to your credit card processing gateway to authorize the ca
 To view your transaction records, please navigate to your dashboard and find **Invoice**. This will load a list view of all transaction information. You will see your invoice transactions, the number associated with them, the status of the invoice, and the amount of the invoice. See below for a screenshot of a sample view of this list:
 
 ![Invoice](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/9.2.Invoice.png?raw=true)
+
+
+By select **View**, you will able to check your details trasaction with GINAR, download in PDF or go to share invoice page in **Stripe**
+
+![Invoice](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/9.22.Invoice.png?raw=true)
