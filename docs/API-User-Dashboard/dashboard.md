@@ -22,7 +22,7 @@ Fill all the required information then click **Submit** to finish and start the 
 
 To view dashboards, from the left navigation bar, select **Dashboard**. Your default dashboard is displayed, you can select the type of dashboard you want to view.
 
-![Dashboard](https://github.com/ginarteam/docs/blob/master/docs/API-User-Dashboard/7.%20Dashboard.png?raw=true)
+![Dashboard](https://github.com/GINARTeam/docs/blob/master/docs/API-User-Dashboard/7.Dashboard.png?raw=true)
 
 -	**Active Package**: Your purchased and running GINAR service
 - **Active Date**: Your purchased date
